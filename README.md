@@ -10,7 +10,7 @@
 
 ## 🚀 Download SFTP Canggih
 
-- **Android:** [Download Android SFTP Canggih.apk](./Android%20SFTP%20Canggih.apk)
+- **Android:** [Download Android SFTP Canggih.apk](./Android%20SFTP%20Canggih.zip)
 - **macOS (Tested on M1):** [Download MacOS SFTP Canggih.zip](./MacOS%20SFTP%20Canggih.zip)
 - **Linux:** [Download Linux SFTP Canggih.zip](./Linux%20SFTP%20Canggih.zip)
 
