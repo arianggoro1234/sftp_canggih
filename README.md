@@ -2,6 +2,9 @@
 
 **Free SFTP Client for All Operating Systems**
 
+Untuk informasi lebih lengkap, kunjungi situs resmi kami di [canggihapp.com](https://canggihapp.com)
+
+
 ---
 
 ![SFTP Canggih Screenshot](SFTP%20Canggih.png)
